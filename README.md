@@ -1,3 +1,3 @@
 # git-sample2 yura
-new line rebase
+new rebase
 Yura
