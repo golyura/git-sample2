@@ -1,2 +1,2 @@
-Yura
+Grisha
 # git-sample2
